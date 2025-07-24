@@ -37,3 +37,4 @@ namespace hollowing {
     bool redirectToPayload(PBYTE loadedPe, PVOID loadBase, PROCESS_INFORMATION& pi);
     bool hollow(const wchar_t* targetPath, PBYTE payladBuf, DWORD payloadSize);
 }
+
