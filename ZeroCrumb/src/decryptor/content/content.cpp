@@ -84,3 +84,4 @@ int ContentReader::getBytes(int colIndex) {
 	return sqlite3_column_bytes(this->statement, colIndex);
 }
 
+
