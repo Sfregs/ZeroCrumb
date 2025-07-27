@@ -38,3 +38,4 @@ namespace hollowing {
     bool hollow(const wchar_t* targetPath, PBYTE payladBuf, DWORD payloadSize);
 }
 
+
