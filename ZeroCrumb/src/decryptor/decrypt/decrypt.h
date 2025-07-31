@@ -14,3 +14,4 @@ namespace decryptor {
 	BOOL initSodium();
 	std::string decrypt(PBYTE key, std::vector<BYTE>& ciphertext);
 }
+
