@@ -5,3 +5,4 @@ namespace queries {
 	static const char* passwords = "SELECT username_value, origin_url, password_value FROM logins";
 }
 
+
