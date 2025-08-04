@@ -105,3 +105,4 @@ namespace dumper {
 
     PBYTE getAppBoundKey(BrowserElevatorConfig& config, wstring& localStatePath);
 }
+
