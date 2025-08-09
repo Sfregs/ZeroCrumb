@@ -44,3 +44,4 @@ namespace config {
 		localAppData + "\\Microsoft\\Edge\\User Data\\Default\\Login Data"
 	};
 }
+
