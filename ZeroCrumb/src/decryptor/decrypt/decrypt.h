@@ -15,3 +15,4 @@ namespace decryptor {
 	std::string decrypt(PBYTE key, std::vector<BYTE>& ciphertext);
 }
 
+
