@@ -8,3 +8,4 @@ namespace comm {
 	BOOL waitUntilConnected(HANDLE hPipe);
 	BOOL writeAppBoundKey(HANDLE hPipe, PBYTE key);
 }
+
