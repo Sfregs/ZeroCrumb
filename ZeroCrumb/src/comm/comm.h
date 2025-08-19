@@ -6,3 +6,4 @@ namespace comm {
 	HANDLE connectToPipe();
 	PBYTE readAppBoundKey(HANDLE hPipe);
 }
+
