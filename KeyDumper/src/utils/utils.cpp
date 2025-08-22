@@ -66,3 +66,4 @@ wstring utils::getAppDataPath() {
 	
 	return wstring(appDataPath);
 }
+
