@@ -17,3 +17,4 @@ using std::setfill;
 namespace dbg {
 	string getHexABK(PBYTE key);
 }
+
