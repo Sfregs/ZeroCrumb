@@ -8,3 +8,4 @@ using std::string;
 namespace utils {
 	string getEnvVar(LPCSTR name);
 }
+
