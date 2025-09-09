@@ -9,3 +9,4 @@ namespace comm {
 	BOOL writeAppBoundKey(HANDLE hPipe, PBYTE key);
 }
 
+
