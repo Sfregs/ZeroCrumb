@@ -7,3 +7,4 @@ namespace comm {
 	PBYTE readAppBoundKey(HANDLE hPipe);
 }
 
+
