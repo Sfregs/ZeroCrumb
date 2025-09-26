@@ -9,3 +9,4 @@ namespace utils {
 	string getEnvVar(LPCSTR name);
 }
 
+
